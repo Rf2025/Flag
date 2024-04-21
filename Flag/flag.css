@@ -1,0 +1,17 @@
+.flag-container{
+    display:grid;
+    grid-template-rows: repeat(13,70px);
+    width: 80%;
+}
+
+.red-stripe{
+    background-color: red;
+}
+
+img{
+    margin-top:70px;
+    opacity:.9;
+    height:490px;
+    background-color: blue;
+}
+
